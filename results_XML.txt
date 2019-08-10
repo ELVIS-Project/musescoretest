@@ -1,0 +1,81 @@
+F164_01_Pisano_Quanto_piu_OMRcorrIL.xml
+F164_01_Pisano_Quanto_piu_OMRcorrIL-pass1.musicxml F164_01_Pisano_Quanto_piu_OMRcorrIL-pass2.musicxml differ: char 1760, line 46
+--------------------------
+
+
+F164_21_Anon_Quando_el_suave_OMRcorrIL.xml
+F164_21_Anon_Quando_el_suave_OMRcorrIL-pass1.musicxml F164_21_Anon_Quando_el_suave_OMRcorrIL-pass2.musicxml differ: char 1768, line 46
+--------------------------
+
+
+F164_22_Festa_Ben_mi_OMRcorrIL.xml
+F164_22_Festa_Ben_mi_OMRcorrIL-pass1.musicxml F164_22_Festa_Ben_mi_OMRcorrIL-pass2.musicxml differ: char 1764, line 46
+--------------------------
+
+
+Josquin Missa La sol fa re mi - Agnus II.xml
+Josquin Missa La sol fa re mi - Agnus II-pass1.musicxml Josquin Missa La sol fa re mi - Agnus II-pass2.musicxml differ: char 1785, line 46
+--------------------------
+
+        Total notes:202
+        Matches:194, 96.04%
+        Discrepancies:8, 3.96%
+        Missing:0, 0.00%
+        
+
+
+Josquin Missa Pange Lingua - Pleni.xml
+Josquin Missa Pange Lingua - Pleni-pass1.musicxml Josquin Missa Pange Lingua - Pleni-pass2.musicxml differ: char 1782, line 46
+--------------------------
+
+        Total notes:497
+        Matches:467, 93.96%
+        Discrepancies:30, 6.04%
+        Missing:0, 0.00%
+        
+
+
+Josquin Missa de Beata virgine - Agnus II.xml
+Josquin Missa de Beata virgine - Agnus II-pass1.musicxml Josquin Missa de Beata virgine - Agnus II-pass2.musicxml differ: char 1785, line 46
+--------------------------
+
+        Total notes:354
+        Matches:354, 100.00%
+        Discrepancies:0, 0.00%
+        Missing:0, 0.00%
+        
+
+
+La Rue Missa Incessament - Pleni.xml
+La Rue Missa Incessament - Pleni-pass1.musicxml La Rue Missa Incessament - Pleni-pass2.musicxml differ: char 1782, line 46
+--------------------------
+
+        Total notes:222
+        Matches:218, 98.20%
+        Discrepancies:4, 1.80%
+        Missing:0, 0.00%
+        
+
+
+La Rue Missa Pro fidelibus defunctis - Sitivit anima mea.xml
+La Rue Missa Pro fidelibus defunctis - Sitivit anima mea-pass1.musicxml La Rue Missa Pro fidelibus defunctis - Sitivit anima mea-pass2.musicxml differ: char 1794, line 46
+--------------------------
+
+        Total notes:161
+        Matches:161, 100.00%
+        Discrepancies:0, 0.00%
+        Missing:0, 0.00%
+        
+
+
+La Rue Missa de Sancta Anna - Benedictus.xml
+La Rue Missa de Sancta Anna - Benedictus-pass1.musicxml La Rue Missa de Sancta Anna - Benedictus-pass2.musicxml differ: char 1759, line 46
+--------------------------
+
+        Total notes:126
+        Matches:126, 100.00%
+        Discrepancies:0, 0.00%
+        Missing:0, 0.00%
+        
+
+
